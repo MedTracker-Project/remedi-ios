@@ -43,6 +43,7 @@ Future enhancements may include:
 ## Demo
 A short demo of the app concept can be viewed here:  
 [Video Demonstration](https://youtube.com/shorts/kDQQvaMi1DM?feature=share)
+GIF: https://media.discordapp.net/attachments/1444832754775625821/1445610224441491589/Remedi_App_Demo_Gif.gif?ex=6930f8ef&is=692fa76f&hm=728b6f5b8371280b4d9637b9be26fed0ad2ecef3369dedd21b86a372aeebc05f&
 
 ## Status
 This project is currently in **concept / early development phase**.  
