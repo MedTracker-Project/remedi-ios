@@ -38,7 +38,9 @@ Future enhancements may include:
 - Push reminders for scheduled doses  
 - Custom medication presets  
 - Weekly or monthly charts  
-- Achievements and rewards  
+- Achievements and rewards
+
+<img width="622" height="511" alt="remedi_wireframe" src="https://github.com/user-attachments/assets/a2d80101-9bc7-4095-a2db-ad33724475d5" />
 
 ## Demo
 A short demo of the app concept can be viewed here:  
